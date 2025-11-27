@@ -1,0 +1,5 @@
+{
+  "name": "换背景以及换脸工具",
+  "description": "High-fidelity AI creative studio using Gemini 3.0 and Nano Banana Pro. Features Style Transfer, Pro Image Generation (up to 4K), and Smart Editing.",
+  "requestFramePermissions": []
+}
